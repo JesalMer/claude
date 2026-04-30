@@ -1,1 +1,1 @@
-print()[Dhello world!)
+print('hello world!')
